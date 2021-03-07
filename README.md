@@ -23,7 +23,7 @@ Root was updated every iteration and I added a neighbor node that is connected t
 
 # Space Complexity
 
-I use a two dimensional array to store the connection information of every pair of laptops. In the array list there are n elements and each element can be consists of another n elements so the complexity is O (n^2) (n square)
+I use a two dimensional array to record the connection of each laptop with each other. In the array list there are n elements and each element can be consists of another n elements so the complexity is O (n^2) (n square)
 
 # Time Complexity 
 
